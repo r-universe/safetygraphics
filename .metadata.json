@@ -1,0 +1,10 @@
+[
+  {
+    "package": "safetyCharts",
+    "oncran": true
+  },
+  {
+    "package": "safetyGraphics",
+    "oncran": true
+  }
+]
